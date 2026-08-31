@@ -19,17 +19,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
 
-## 🚀 Projetos em destaque
-
-**CadArt** — Plataforma de cadastro e avaliação cultural para a prefeitura de São Leopoldo (RS), com múltiplos perfis de usuário e fluxos de inscrição/avaliação em editais.
-> Laravel + Inertia.js + Vue 3 + Tailwind
-
-**SISRI / BancoOfertasImoveis** — Sistema de coleta de dados imobiliários com scrapers para múltiplos portais e dashboard de visualização.
-> Node.js + Selenium + Laravel/Inertia Vue + MySQL
-
-<br>
 
 ## Social media:
 
