@@ -5,7 +5,7 @@ Desenvolvedor Full-Stack, atuando entre backend em PHP/Laravel, frontend em Vue 
 ## 🚀 Stack principal
 
 - **Backend:** PHP, Laravel, Inertia.js
-- **Frontend:** Vue 3, TypeScript, Tailwind CSS, shadcn-vue / reka-ui
+- **Frontend:** Vue 3, TypeScript, Tailwind CSS, shadcn-vue 
 - **Automação / Scripts:** Node.js, Selenium
 - **Banco de dados:** MySQL
 
