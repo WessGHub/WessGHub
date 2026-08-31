@@ -1,16 +1,19 @@
-## Hi there 👋
+# Opa, eu sou o Wesley!
 
-<!--
-**WessGHub/WessGHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full-Stack, atuando entre backend em PHP/Laravel, frontend em Vue 3/TypeScript e automações em Node.js.
 
-Here are some ideas to get you started:
+## 🚀 Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP, Laravel, Inertia.js
+- **Frontend:** Vue 3, TypeScript, Tailwind CSS, shadcn-vue / reka-ui
+- **Automação / Scripts:** Node.js, Selenium
+- **Banco de dados:** MySQL
+
+## 🎓 Formação
+
+Cursando estudos acadêmicos com foco em arquitetura de software, incluindo modelagem UML, padrões de projeto (GoF) e arquitetura de microsserviços.
+
+## 📫 Contato
+
+Fique à vontade para entrar em contato ou conferir meus repositórios!
+wesleyullmann.nunes@gmail.com
