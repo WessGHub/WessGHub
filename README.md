@@ -1,4 +1,4 @@
-# Olá, eu sou o Wesley 👋
+# Olá, eu sou o Wesley!
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas / Arquitetura de Software na UNISINOS
 - 💻 Desenvolvedor Full-Stack: PHP/Laravel no backend, Vue 3/TypeScript no frontend
